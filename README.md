@@ -2,11 +2,9 @@
 
 
 ------------------------------------------------------------DPL---------------------------------------------------------------------------------
-
 *********************
        OOP
 *********************
-
 1. Why we create the constructor of abstract class if we cannot create its object?
 2. What is constructor changing?
 3. Can we create the constructor of static class.? How to access the methods of static class? Which memory is used when we call the static class methods in other class?
