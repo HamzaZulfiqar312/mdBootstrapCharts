@@ -11,9 +11,9 @@
 4. Abstraction vs Encapsulation.
 5. Sealed classes
 6. Function overriding?
-*********************
-  DotNet Core API
-*********************
+*******************************
+         DotNet Core API
+*******************************
 1. .net vs .net core
 2. Authorization and process
 3. Routing and its types
