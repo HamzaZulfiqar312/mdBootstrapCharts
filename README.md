@@ -11,18 +11,18 @@
 4. Abstraction vs Encapsulation.
 5. Sealed classes
 6. Function overriding?
-*******************************
+
          DotNet Core API
-*******************************
+
 1. .net vs .net core
 2. Authorization and process
 3. Routing and its types
 4. How to use routing in .net core
 5. Middleware
 6. Types of .json files in asp.net core
-*********************
+
         SQL
-*********************
+
 1. Unique vs primary key
 2. Can we define null value in unique key?
 3. Trigger
