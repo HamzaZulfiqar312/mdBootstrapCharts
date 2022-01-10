@@ -11,7 +11,7 @@
 5. Sealed classes
 6. Function overriding?
 
-     DotNet Core API
+       DotNet Core API
 
 1. .net vs .net core
 2. Authorization and process
@@ -20,7 +20,7 @@
 5. Middleware
 6. Types of .json files in asp.net core
 
-      SQL
+        SQL
 
 1. Unique vs primary key
 2. Can we define null value in unique key?
@@ -29,7 +29,8 @@
 5. DDL vs DML
 6. SP vs function
 7. What is the function of view?
-Angular
+
+       Angular
 
 1. Flow of angular application.
 2. Communication in angular application
