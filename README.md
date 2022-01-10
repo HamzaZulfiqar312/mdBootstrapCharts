@@ -12,7 +12,7 @@
 5. Sealed classes
 6. Function overriding?
 *********************
-  .Net Core API
+  DotNet Core API
 *********************
 1. .net vs .net core
 2. Authorization and process
